@@ -1,2 +1,2 @@
 # courses
-courses in ECE Illinois
+courses that I teach in ECE Illinois
